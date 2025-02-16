@@ -50,3 +50,10 @@
 
 
 ![image alt](https://github.com/khshoaib/Ridgeben_IT_Soln/blob/main/ridgeben/7.png)
+
+
+
+# FAQ's
+
+
+![image alt](https://github.com/khshoaib/Ridgeben_IT_Soln/blob/main/ridgeben/9.png)
