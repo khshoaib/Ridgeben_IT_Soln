@@ -12,6 +12,13 @@
 
 
 
+# Service Details
+
+
+![image alt](https://github.com/khshoaib/Ridgeben_IT_Soln/blob/main/ridgeben/8.png)
+
+
+
 # Technology
 
 
